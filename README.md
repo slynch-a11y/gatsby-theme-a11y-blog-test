@@ -39,7 +39,7 @@ To ensure your Theme Jam submission [follows the rules](https://themejam.gatsbyj
 - [X] Update the `author` field in `package.json`
 - [X] Update the `repository` field in `package.json`
 - [X] Make sure the theme’s `keywords` in `package.json` include `gatsby`, `gatsby-theme`, and `gatsby-plugin`
-- [ ] Publish your theme to npm ([docs][npmpublish])
+- [X] Publish your theme to npm ([docs][npmpublish])
 - [ ] Submit your theme at https://themejam.gatsbyjs.org
 
 [a11y]: https://gatsbyjs.org/docs/making-your-site-accessible#how-to-improve-accessibility

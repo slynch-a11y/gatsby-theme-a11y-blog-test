@@ -9,8 +9,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@selynch/gatsby-theme-a11y": "0.0.1",
     "gatsby": "^2.13.44",
-    "@selynch/gatsby-theme-a11y": "*",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
