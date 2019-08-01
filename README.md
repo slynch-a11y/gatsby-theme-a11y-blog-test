@@ -10,14 +10,14 @@ To use this theme in your Gatsby sites, follow these instructions:
 
 1.  Install the theme
     ```sh
-    npm install --save @selynch/gatsby-theme
+    npm install --save @selynch/gatsby-theme-a11y
     ```
 
 2.  Add the theme to your `gatsby-config.js`:
     ```js
     module.exports = {
       plugins: [
-        '@selynch/gatsby-theme'
+        '@selynch/gatsby-theme-a11y'
       ]
     }
     ```
