@@ -2,9 +2,8 @@
 
 This is an accessibility-ready (and searchable) blog theme for the Gatsby Theme Jam Submission.
 
-See the [live demo](https://gatsby-theme-jam-example.netlify.com)
 
-## Installation
+## Installation (this is how it should work)
 
 To use this theme in your Gatsby sites, follow these instructions:
 
