@@ -12,6 +12,8 @@ Things I learned more about while working on this:
 * CSS
 * Typography.js
 * Gatsby SEO and React-Helmet
+* the @gatsby-contrib/gatsby-plugin-elasticlunr-search plugin
+* deploying on Netlify
 * creating Gatsby themes!
 
 ## Installation (this is how it should work)
