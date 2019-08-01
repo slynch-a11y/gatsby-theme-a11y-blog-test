@@ -1,11 +1,23 @@
 # Gatsby Theme Jam Submission
 
-This is an accessibility-ready (and searchable) blog theme for the Gatsby Theme Jam Submission.
+This is a (work in progress!!!) accessibility-ready (and searchable) blog theme for the Gatsby Theme Jam Submission.
 
+Things I learned more about while working on this: 
+* Gatsby.js
+* GraphQL
+* npm publish
+* Gatsby createPages and the Gatsby-source-filesystem plugin (includes a function to create slugs!)
+* using markdown with Gatsby
+* using Gatsby plugins
+* CSS
+* Typography.js
+* Gatsby SEO and React-Helmet
+* creating Gatsby themes!
 
 ## Installation (this is how it should work)
 
 To use this theme in your Gatsby sites, follow these instructions:
+(to install a Gatsby site: npm install gatsby react react-dom)
 
 1.  Install the theme
     ```sh
